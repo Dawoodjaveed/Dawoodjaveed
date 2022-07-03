@@ -9,13 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodjaveed&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodjaveed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawoodjaveed" alt="dawoodjaveed" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about ****MongoDB** **Express** **React JS** **Node JS** **Angular** **ROR****
 
 - 📫 How to reach me **dawoodjaved443@gmail.com**
+
+-  😄 Pronouns: Pronouns: I, you, he, it, they, this
+- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
