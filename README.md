@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dawood Javeed</h1>
+<p align="center">
+
+   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+  
+</p>
+
+# Hi guys 👋  I'm Dawood Javeed
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodjaveed&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodjaveed" /> </p>
